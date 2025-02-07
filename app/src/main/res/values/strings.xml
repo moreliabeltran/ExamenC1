@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExamenC1</string>
+    <string name="el1">Auto Sedán</string>
+    <string name="el2">Camioneta</string>
+    <string name="el3">Auto deportivo</string>
+    <string-array name="spinner_lista">
+        <item>Auto sedán</item>
+        <item>Auto deportivo</item>
+        <item>Camioneta</item>
+    </string-array>
+    <string name="years">1,2,3</string>
+    <string name="costo">Costo:</string>
+    <string name="pY">/año</string>
+    <string name="moneda">MXN</string>
+    <string name="years2">Años:</string>
+    <string name="hintE2">El precio se desplegará aquí</string>
+    <string name="total1">El total se desplegará aquí</string>
+    <string name="total2">Total: $ </string>
+    <string name="botón">Aceptar</string>
+    <string name="instrucciones">Seleccione el tipo de vehículo</string>
+</resources>
